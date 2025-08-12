@@ -8,6 +8,7 @@ import pandas as pd
 import datetime as dt
 
 # taller 
+# ok
 
 app = dash.Dash(
     __name__,
